@@ -1,4 +1,4 @@
-def get_student_score() -> float:
+def get_student_score() -> float:   
     while True:
         try:
             score = float(input("Enter your score: "))
